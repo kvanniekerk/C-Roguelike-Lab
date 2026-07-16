@@ -1,1 +1,1 @@
-# C-Roguelike-Lab
+This repository is for experimenting with roguelike mechanics written in C. The initial code structure follows the Dev.to "C Roguelike Tutorial" to establish basic mechanics and implement cross-platform terminal input/output handling using ncurses.
